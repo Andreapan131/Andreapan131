@@ -2,7 +2,7 @@
 
 ### About Me
 🎓 MS in Business Analytics @ UC Irvine (Graduating Sep 2026)  
-💻 Student Business Analyst @ Edwards Lifesciences
+💻 Student Business Analyst @ Edwards Lifesciences  
 👩‍💻 Business Analyst Intern @ Shopee (B2C E-commerce)  
 📊 Digital Marketing Intern @ Kontent (B2B Marketing Agency)  
 🌟 Passionate about uncovering data-driven insights and building solutions that drive meaningful business impact
