@@ -1,7 +1,7 @@
 ## Hi, I'm Andrea! 👋
 
 ### About Me
-🎓 MS in Business Analytics @ UC Irvine (Graduating Sep 2026)  
+🎓 MS in Business Analytics @ UC Irvine
 💡 Business Analyst Intern @ UCI Digital Learning & Innovation Office  
 💻 Student Business Analyst @ Edwards Lifesciences  
 📊 Digital Marketing Intern @ Kontent (B2B Marketing Agency)  
